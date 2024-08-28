@@ -90,7 +90,7 @@ To get started with the E-commerce Application, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repo/ecommerce-app.git
+   git clone https://github.com/f2rkan/commerce-core.git
    cd ecommerce-app
    ```
 
